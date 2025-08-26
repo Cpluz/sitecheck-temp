@@ -4,19 +4,19 @@
     "url": "https://www.cpluz.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cpluz.com.ico",
     "slug": "cpluz",
-    "status": "down",
-    "uptime": "97.05%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.05%",
-    "uptimeYear": "97.05%",
-    "time": 4789,
-    "timeDay": 6064,
-    "timeWeek": 4789,
-    "timeMonth": 4789,
-    "timeYear": 4789,
+    "status": "up",
+    "uptime": "96.55%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "96.55%",
+    "time": 4247,
+    "timeDay": 5067,
+    "timeWeek": 4247,
+    "timeMonth": 4247,
+    "timeYear": 4247,
     "dailyMinutesDown": {
-      "2025-08-26": 61
+      "2025-08-26": 72
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 708,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-08-26": 1000,
+      "2025-08-26": 1018,
       "2025-08-25": 1088
     }
   },
@@ -100,18 +100,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasanthamdoors.com.ico",
     "slug": "vasanthamdoors",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.02%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 7197,
     "timeDay": 6625,
     "timeWeek": 7197,
     "timeMonth": 7197,
     "timeYear": 7197,
     "dailyMinutesDown": {
-      "2025-08-26": 3
+      "2025-08-26": 21
     }
   },
   {
@@ -156,11 +156,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/calgpu.cpluz.com.ico",
     "slug": "gpu-calculator",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.98%",
     "uptimeDay": "99.15%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "95.95%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
     "time": 201,
     "timeDay": 159,
     "timeWeek": 201,
@@ -194,18 +194,20 @@
     "url": "https://kingtraderss.com",
     "icon": "https://icons.duckduckgo.com/ip3/kingtraderss.com.ico",
     "slug": "kingtraderss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 4919,
     "timeDay": 4371,
     "timeWeek": 4919,
     "timeMonth": 4919,
     "timeYear": 4919,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 4
+    }
   },
   {
     "name": "Accounts Kingtraderss",
@@ -230,18 +232,20 @@
     "url": "https://inventory.kingtraderss.com",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.kingtraderss.com.ico",
     "slug": "inventory-kingtraderss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2115,
     "timeDay": 2909,
     "timeWeek": 2115,
     "timeMonth": 2115,
     "timeYear": 2115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 2
+    }
   },
   {
     "name": "Baseefy",
@@ -368,7 +372,7 @@
     "timeMonth": 684,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-08-26": 1000,
+      "2025-08-26": 1018,
       "2025-08-25": 1087
     }
   },
@@ -395,19 +399,19 @@
     "url": "https://fuwaindia.in",
     "icon": "https://icons.duckduckgo.com/ip3/fuwaindia.in.ico",
     "slug": "fuwaindia",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 10144,
-    "timeDay": 14912,
-    "timeWeek": 10144,
-    "timeMonth": 10144,
-    "timeYear": 10144,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 8832,
+    "timeDay": 10561,
+    "timeWeek": 8832,
+    "timeMonth": 8832,
+    "timeYear": 8832,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 18
     }
   },
   {
@@ -416,11 +420,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/everyhue.in.ico",
     "slug": "everyhue",
     "status": "up",
-    "uptime": "96.04%",
+    "uptime": "96.07%",
     "uptimeDay": "99.19%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "96.04%",
-    "uptimeYear": "96.04%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "96.07%",
+    "uptimeYear": "96.07%",
     "time": 280,
     "timeDay": 227,
     "timeWeek": 280,
